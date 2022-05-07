@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kami-TheCodeBreaker/TextUtil-react/static/css/main.aa3021b3.css",
+    "main.js": "/kami-TheCodeBreaker/TextUtil-react/static/js/main.0b4ccbb7.js",
+    "static/js/787.5cd74ffb.chunk.js": "/kami-TheCodeBreaker/TextUtil-react/static/js/787.5cd74ffb.chunk.js",
+    "index.html": "/kami-TheCodeBreaker/TextUtil-react/index.html",
+    "main.aa3021b3.css.map": "/kami-TheCodeBreaker/TextUtil-react/static/css/main.aa3021b3.css.map",
+    "main.0b4ccbb7.js.map": "/kami-TheCodeBreaker/TextUtil-react/static/js/main.0b4ccbb7.js.map",
+    "787.5cd74ffb.chunk.js.map": "/kami-TheCodeBreaker/TextUtil-react/static/js/787.5cd74ffb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa3021b3.css",
+    "static/js/main.0b4ccbb7.js"
+  ]
+}
